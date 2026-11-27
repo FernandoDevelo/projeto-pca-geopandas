@@ -59,6 +59,10 @@ Teste de Bartlett: p-valor < 0.05 (rejeita-se a matriz identidade)
 Componentes retidos (Autovalor > 1): 2 componentes
 Variância explicada acumulada (2 componentes): 75.18%
 ```
+Visualização do ranking com GeoPandas
+
+![Gráfico Município de São Paulo](grafico_mapa_sp.png)
+
 
 ---
 
